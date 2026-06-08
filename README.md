@@ -209,16 +209,6 @@ Screenshots of the application are available in the `assets` folder.
 
 ---
 
-## Future Improvements
-
-* PDF Report Generation
-* Goal Tracking
-* Cash Flow Forecasting
-* Multi-user Support
-* Cloud Deployment
-
----
-
 ## Author
 
 Divyasree T
